@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 <!--
 - 🔭 cursando técnico em Desenvolvimento de Sistemas
