@@ -1,7 +1,6 @@
 ## Olá 👋 
 - 🔭 cursando técnico em Desenvolvimento de Sistemas.             
 - 📫 email: emilytainasantos5@gmail.com
-- 😄 Pronouns: ela/dela
 
 <img src="https://github.com/user-attachments/assets/d52675f2-ea18-4830-b7cb-4db033b0858b" width="150px" style="float: right; margin-left: 10px;">
   
